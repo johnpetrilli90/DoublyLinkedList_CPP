@@ -1,0 +1,14 @@
+﻿  DoublyLinkedList_CPP.cpp
+c:\users\john.petrilli\source\repos\doublylinkedlist_cpp\doublylinkedlist_cpp\doublylinkedlist_cpp.cpp(253): warning C4018: '<': signed/unsigned mismatch
+  c:\users\john.petrilli\source\repos\doublylinkedlist_cpp\doublylinkedlist_cpp\doublylinkedlist_cpp.cpp(252): note: while compiling class template member function 'E Deque<E>::get(int)'
+          with
+          [
+              E=char
+          ]
+  c:\users\john.petrilli\source\repos\doublylinkedlist_cpp\doublylinkedlist_cpp\doublylinkedlist_cpp.cpp(308): note: see reference to function template instantiation 'E Deque<E>::get(int)' being compiled
+          with
+          [
+              E=char
+          ]
+  c:\users\john.petrilli\source\repos\doublylinkedlist_cpp\doublylinkedlist_cpp\doublylinkedlist_cpp.cpp(305): note: see reference to class template instantiation 'Deque<char>' being compiled
+  DoublyLinkedList_CPP.vcxproj -> C:\Users\john.petrilli\source\repos\DoublyLinkedList_CPP\Debug\DoublyLinkedList_CPP.exe
